@@ -30,15 +30,20 @@ An **interactive web-based Data Structures & Algorithms Visualizer** built with 
 ## Installation & Setup 
 
 1. **Clone the repository**
+   
 bash
    git clone https://github.com/your-username/dsa-visualizer.git
    cd dsa-visualizer
+   
 2.Install dependencies
+
      npm install
 3.Start the development server
+
     npm start
 
 ## Project Structure
+
 src/
 │
 ├── components/
@@ -68,5 +73,5 @@ Pakhi Singhal
 🔗 LinkedIn
  • GitHub
 
-⭐ If you like this project, don’t forget to give it a star!
+ ## If you like this project, don’t forget to give it a star!
 =======
