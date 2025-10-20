@@ -33,6 +33,7 @@ An **interactive web-based Data Structures & Algorithms Visualizer** built with 
    
 bash
    git clone https://github.com/your-username/dsa-visualizer.git
+   
    cd dsa-visualizer
    
 2.Install dependencies
@@ -45,6 +46,7 @@ bash
 ## Project Structure
 
 src/
+
 │
 ├── components/
 │   ├── Sidebar.js
@@ -74,4 +76,4 @@ Pakhi Singhal
  • GitHub
 
  ## If you like this project, don’t forget to give it a star!
-=======
+
