@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# DSA Visualizer An **interactive web-based Data Structures & Algorithms Visualizer** built with **React.js**, designed to help learners understand core DSA operations and algorithms through real-time visual animations and pseudocode highlighting. --- ## Features - Visualizes core **Data Structures**: Arrays, Stacks, Queues, Linked Lists, Strings, Trees, and Graphs. - Animates **15+ Algorithms** including: - **Graph Algorithms:** BFS, DFS, Dijkstra, Prim’s, Kruskal’s, Bellman-Ford, Floyd-Warshall, Topological Sort, SCC, Bipartite Check. - **Tree Operations:** Insert, Delete, Traversals (Inorder, Preorder, Postorder, Level-order), Height, Diameter, Mirror, LCA. - **Array Operations:** Insert, Delete, Search, Sort (optional). - Step-by-step animation playback with **Play / Pause / Step Forward / Step Backward** controls. - Integrated **Pseudocode Panel** — highlights algorithm steps in sync with visualization. - Clean, educational **UI/UX** for conceptual clarity and interactive learning. - Built with modular, component-driven architecture for scalability. --- ## Tech Stack - **Frontend:** React.js (Hooks, State, useEffect) - **Language:** JavaScript (ES6+) - **Styling:** CSS3 - **Visualization:** SVG-based animations and dynamic DOM rendering --- ## Installation & Setup 1. **Clone the repository**
+bash
+   git clone https://github.com/your-username/dsa-visualizer.git
+   cd dsa-visualizer
+2.Install dependencies
+     npm install
+3.Start the development server
+    npm start
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Structure
+src/
+│
+├── components/
+│   ├── Sidebar.js
+│   ├── PseudocodePanel.js
+│   ├── ArrayVisualizer.js
+│   ├── StackVisualizer.js
+│   ├── QueueVisualizer.js
+│   ├── LinkedListVisualizer.js
+│   ├── TreeVisualizer.js
+│   └── GraphVisualizer.js
+│
+├── styles.css
+└── App.js
 
-## Available Scripts
+## Learning Impact
 
-In the project directory, you can run:
+Visualizes algorithmic flow and data structure transformations step-by-step.
+Bridges the gap between theory and implementation for students and enthusiasts.
+Can be extended to include Sorting, Hash Tables, and Heap operations.
 
-### `npm start`
+## Author
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Pakhi Singhal
+ B.Tech DSAI | IIIT Dharwad
+🔗 LinkedIn
+ • GitHub
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ If you like this project, don’t forget to give it a star!
+=======
