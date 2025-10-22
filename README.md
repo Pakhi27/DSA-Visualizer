@@ -22,9 +22,9 @@ An **interactive web-based Data Structures & Algorithms Visualizer** built with 
 
 ---
 
-## 🖼️ Preview  
+## Preview  
 
-Here’s a look at the DSA Visualizer interface 👇  
+Here’s a look at the DSA Visualizer interface:- 
 
 ![App Screenshot](./preview.png)  
 *Array, Linked List, and Graph visualizations with synchronized pseudocode panel.*  
@@ -56,10 +56,9 @@ bash
 
 ## Project Structure
 
+```
 src/
-
 │
-
 ├── components/
 │   ├── Sidebar.js
 │   ├── PseudocodePanel.js
@@ -72,6 +71,7 @@ src/
 │
 ├── styles.css
 └── App.js
+```
 
 ## Learning Impact
 1.Visualizes algorithmic flow and data structure transformations step-by-step.
