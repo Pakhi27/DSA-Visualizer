@@ -40,7 +40,7 @@ Here’s a look at the DSA Visualizer interface:-
 
 ## Installation & Setup 
 
-1. **Clone the repository**
+1.Clone the repository
    
 bash
    git clone https://github.com/your-username/dsa-visualizer.git
@@ -78,12 +78,12 @@ src/
 
 2.Bridges the gap between theory and implementation for students and enthusiasts.
 
-3.Can be extended to include Sorting, Hash Tables, and Heap operations.
+3.Can be extended to include Hash Tables, and Heap operations.
 
 ## Author
 
 Pakhi Singhal
  B.Tech DSAI | IIIT Dharwad
 
- ## If you like this project, don’t forget to give it a star!
+ # If you like this project, don’t forget to give it a star!
 
