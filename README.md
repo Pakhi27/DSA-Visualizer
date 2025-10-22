@@ -1,5 +1,9 @@
 #  DSA Visualizer  
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://dsa-visualizer-rho.vercel.app)
+
+🔗 **Live Demo:** [https://dsa-visualizer-rho.vercel.app](https://dsa-visualizer-rho.vercel.app)
+
 An **interactive web-based Data Structures & Algorithms Visualizer** built with **React.js**, designed to help learners understand core DSA operations and algorithms through **real-time visual animations** and **pseudocode highlighting**.
 
 ---
@@ -17,6 +21,13 @@ An **interactive web-based Data Structures & Algorithms Visualizer** built with 
 - Built with modular, **component-driven architecture** for scalability.  
 
 ---
+
+## 🖼️ Preview  
+
+Here’s a look at the DSA Visualizer interface 👇  
+
+![App Screenshot](./preview.png)  
+*Array, Linked List, and Graph visualizations with synchronized pseudocode panel.*  
 
 ## Tech Stack  
 
@@ -48,6 +59,7 @@ bash
 src/
 
 │
+
 ├── components/
 │   ├── Sidebar.js
 │   ├── PseudocodePanel.js
@@ -72,8 +84,6 @@ src/
 
 Pakhi Singhal
  B.Tech DSAI | IIIT Dharwad
-🔗 LinkedIn
- • GitHub
 
  ## If you like this project, don’t forget to give it a star!
 
