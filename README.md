@@ -84,6 +84,6 @@ src/
 
 Pakhi Singhal
  B.Tech DSAI | IIIT Dharwad
-
- # If you like this project, don’t forget to give it a star!
+ 
+If you like this project, don’t forget to give it a star!
 
